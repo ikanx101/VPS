@@ -1,4 +1,4 @@
-apt install gnupg ca-certificates nano gdebi-core build-essential
+apt install gnupg ca-certificates nano gdebi-core build-essential libgdal-dev
 apt install libcurl4-openssl-dev libssl-dev libxml2-dev cmake
 
 
