@@ -5,3 +5,5 @@ pip3 install -U radian
 apt-get update
 apt-get upgrade
 apt-get install r-base r-base-dev
+
+wget -O- https://aka.ms/install-vscode-server/setup.sh | sh
