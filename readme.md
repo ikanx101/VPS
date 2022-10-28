@@ -7,5 +7,5 @@ Alurnya adalah:
 1. _Setting_ semua Linux _packages_ yang wajib.
 1. _Install_ __R__.
 1. _Install_ (salah satu dari) :
-  - RStudio 
-  - Visual Studio Code
+    - RStudio 
+    - Visual Studio Code
