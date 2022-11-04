@@ -2,7 +2,7 @@
 rm(list=ls())
 pakets = installed.packages()
 pakets_needed = c("dplyr","tidyr","readxl","janitor","openxlsx","stringr",
-                  "knitr","checkmate","htmlwidgets","htmltools","htmlTable","expss",
+                  "knitr","checkmate","htmlwidgets","htmltools","htmlTable",
                   "rvest","ggplot2","txtplot","tidytext","reshape2",
                   "readxl","qpdf","ggpubr","ggrepel","ROI","ompr","ompr.roi",
                   "ROI.plugin.glpk","rmarkdown","Ryacas","languageserver","httpgd",
